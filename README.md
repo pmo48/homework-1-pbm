@@ -1,5 +1,6 @@
 # homework-1-pbm
 homework 1 assignment
+
 #installation
 1. Open a browser
 1. Navigate to link https://pmo48.github.io/homework-1-pbm/
@@ -9,8 +10,8 @@ homework 1 assignment
 * Providing homework instructions
 
 #credits
-*bootcamp class for instructions
-*fictional company horiseon for images
+* bootcamp class for instructions
+* fictional company horiseon for images
 
 #license
 Copyright (c) [2020] [patrickbryanmoriarty]
