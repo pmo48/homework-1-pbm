@@ -4,9 +4,13 @@
     margin: 0;
 }
 
+/* geneneral background color outside of sections */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* provides padding/buffer for nav bar, font family, general background color, and Horiseon font colors HORI-N */
 
 .header {
     padding: 20px;
@@ -14,15 +18,20 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+/* font size and display behavior of HORISEON logo */
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* color of SEO in HORISEON logo */
+
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* padding, location, font size/family of box around nav links */
 
 .header nav {
     padding-top: 15px;
@@ -32,23 +41,33 @@ body {
     font-size: 20px;
 }
 
+/* padding, location, font size/family of box around nav links */
+
 .header nav ul {
     list-style-type: none;
 }
+
+/* individual nav link location */
 
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* nav link color */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* color of paragraph text */
+
 p {
     font-size: 16px;
 }
+
+/* main picture sizing and margins */
 
 #table-pic {
     height: 800px;
@@ -56,21 +75,29 @@ p {
     margin-bottom: 25px;
 }
 
+/* float location and margin of main */
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
+/* float location and margin of aside */
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* main  width, location and margin */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* aside  width, location and margi, background, fonts, etc. */
 
 .benefits {
     margin-right: 20px;
@@ -83,20 +110,9 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* aside  width, location and margin, background, fonts, etc. */
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+/* lead, brand and cost header formatting and margin */
 
 .benefit-lead h3 {
     margin-bottom: 10px;
@@ -112,6 +128,9 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* lead, brand and cost image formatting, margin and widths */
+
 
 .benefit-lead img {
     display: block;
@@ -130,6 +149,56 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* aside lead, brand and cost margins and text color */
+
+.benefit-lead {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* SEO, ORM and SMM image formatting */
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+}
+
+/* SEO, ORM and SMM header formatting */
+
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* SEO, ORM and SMM paragragh formatting */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -158,32 +227,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* Padding, font family and text alignment for footer */
 
 .footer {
     padding: 30px;
@@ -191,6 +235,8 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+/* Font size of footer title */
 
 .footer h2 {
     font-size: 20px;
