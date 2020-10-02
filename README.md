@@ -1,5 +1,5 @@
 # homework-1-pbm
-homework 1 assignment
+homework 1 assignment - this homework assignment is intended to test my ability to clean up some code errors and apply accessiblity through alt texts and semantic html
 
 ![Completed-Site-Screenshot](./assets/images/screenshot.png)
 
