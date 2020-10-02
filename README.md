@@ -1,6 +1,8 @@
 # homework-1-pbm
 homework 1 assignment
 
+![Completed-Site-Screenshot](/images/logo.png)
+
 #installation
 1. Open a browser
 1. Navigate to link https://pmo48.github.io/homework-1-pbm/
