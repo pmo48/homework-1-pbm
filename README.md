@@ -1,7 +1,7 @@
 # homework-1-pbm
 homework 1 assignment
 
-![Completed-Site-Screenshot](/images/logo.png)
+![Completed-Site-Screenshot](./assets/images/screenshot.png)
 
 #installation
 1. Open a browser
